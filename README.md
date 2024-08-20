@@ -1,1 +1,1 @@
-# SQL-PROJECT
+This project involves SQL analysis of a music industry dataset using pgAdmin. The goal is to extract valuable insights and trends from the dataset by solving a series of SQL queries categorized into different levels of difficulty: Easy, Moderate and Advanced.
